@@ -3,9 +3,9 @@ title: "The Start of a New Expedition"
 date: 2025-06-05 21:30:00 +0800 # Today's Date & Time (adjust if needed)
 categories: [Personal, Career, AI]
 tags: [journey, full-stack, swiftui, development, motivation]
-# image:
-#   path: /assets/img/posts/your-hero-image-for-this-post.jpg # <-- ADD YOUR IMAGE PATH HERE
-#   alt: A compelling description of your image for SEO and accessibility.
+image:
+  path: /assets/img/posts/expeditionKedarkantha.jpg # <-- ADD YOUR IMAGE PATH HERE
+#   alt: My Solo Expedition - Kedarkantha Himalayan Trekking
 ---
 
 If you've landed on my homepage, you know the title of my blog is "My AI Expedition." This is the first official entry in that logbook. It’s not just about code; it’s about the "why" behind it.
