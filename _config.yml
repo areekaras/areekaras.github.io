@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Shibili Areekara
+title: My AI Expedition
 
-tagline: Beyond Native - An iOS Dev's Full-Stack AI Expedition # it will display as the subtitle
+tagline: ✨ Logging my AI evolution. ✨ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   After 8+ years deep in the iOS world, I'm swapping some of my Swift syntax for a full-stack passport and an AI compass! Join me, Shibili, on this expedition into AI-assisted software development. I'll be sharing field notes from my personal projects, upskilling adventures, and all the cool (and sometimes chaotic) ways AI is changing how we build. Expect honest stories, not just highlight reels.
