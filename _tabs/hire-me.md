@@ -36,8 +36,8 @@ But here is my promise: You will get a highly self-motivated, adaptable, and qua
 
 If you're looking for a developer with a deep sense of ownership and a relentless drive to learn and improve, I believe we could be a great fit.
 
-<a href="/assets/pdf/iOS_Resume_Shibili.pdf" class="btn btn-primary" role="button" target="_blank">View My Resume</a>
+<a href="/assets/docs/iOS_Resume_Shibili.pdf" class="btn btn-primary" role="button" target="_blank">View My Resume</a>
 <a href="https://github.com/areekaras" class="btn btn-primary" role="button" target="_blank">My GitHub Profile</a>
-<a href="YOUR_LINKEDIN_PROFILE_URL" class="btn btn-primary" role="button" target="_blank">My LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/shibiliareekara/" class="btn btn-primary" role="button" target="_blank">My LinkedIn Profile</a>
 
 **Or contact me directly at: [shibilyareekara@gmail.com](mailto:shibilyareekara@gmail.com)**
