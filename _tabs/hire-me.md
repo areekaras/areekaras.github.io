@@ -40,4 +40,4 @@ If you're looking for a developer with a deep sense of ownership and a relentles
 <a href="https://github.com/areekaras" class="btn btn-primary" role="button" target="_blank">My GitHub Profile</a>
 <a href="https://www.linkedin.com/in/shibiliareekara/" class="btn btn-primary" role="button" target="_blank">My LinkedIn Profile</a>
 
-**Or contact me directly at: [shibilyareekara@gmail.com](mailto:shibilyareekara@gmail.com)**
+**Or contact me directly at: [hello@shibiliareekara.com](mailto:hello@shibiliareekara.com)**

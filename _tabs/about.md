@@ -26,6 +26,6 @@ I'm always open to new opportunities and collaborations where I can bring my exp
 If you have an interesting project or a role where my skills would be a great fit, I'd love to hear from you.
 
 <a href="/assets/docs/iOS_Resume_Shibili.pdf" class="btn btn-primary" role="button" target="_blank">View My Resume</a>
-<a href="mailto:shibilyareekara@gmail.com" class="btn btn-primary" role="button">Contact Me</a>
+<a href="mailto:hello@shibiliareekara.com" class="btn btn-primary" role="button">Contact Me</a>
 
 ### Glad you're here, and may your builds always succeed! 🚀
