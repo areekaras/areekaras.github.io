@@ -1,6 +1,6 @@
 ---
 title: "Why I Wake Up at 4:30 AM: Forging My Future in the Margins"
-date: 2025-06-13 07:00:00 +0800
+date: 2025-06-13 06:30:00 +0800
 categories: [Productivity, Personal, Development]
 tags: [discipline, habits, motivation, learning, deep-work]
 image:
