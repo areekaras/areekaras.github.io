@@ -1,0 +1,116 @@
+<style>
+  .newsletter-wrapper-dark {
+    /* --- Colors for Dark Theme --- */
+    background-color: #212529; /* A dark, off-black background */
+    border: 1px solid #495057;   /* A subtle border */
+    color: #f8f9fa;            /* Main text color (light gray/white) */
+
+    /* --- Spacing (Reduced Padding) --- */
+    padding: 1.5rem; /* Reduced from 2rem */
+    margin-top: 2rem;  /* Reduced from 3rem */
+    margin-bottom: 2rem;/* Reduced from 3rem */
+    
+    border-radius: 12px;
+    text-align: center;
+  }
+  .newsletter-wrapper-dark h3 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #ffffff; /* Brighter white for the headline */
+  }
+  .newsletter-wrapper-dark p {
+    font-size: 1rem;
+    color: #adb5bd; /* A softer gray for the description text */
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5rem;
+  }
+  .newsletter-form-container-dark {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .newsletter-form-container-dark input[type="email"] {
+    width: 100%;
+    max-width: 350px;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    
+    /* --- Dark Input Field Styles --- */
+    background-color: #343a40;
+    border: 1px solid #495057;
+    border-radius: 8px;
+    color: #f8f9fa;
+  }
+  .newsletter-form-container-dark input[type="email"]::placeholder {
+    color: #6c757d;
+  }
+  .newsletter-form-container-dark input[type="submit"] {
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    
+    /* --- Ghost Button Style --- */
+    background-color: transparent;
+    border: 1px solid #007bff;
+    color: #007bff;
+  }
+  .newsletter-form-container-dark input[type="submit"]:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  .powered-by-buttondown-dark {
+    font-size: 0.8rem;
+    color: #6c757d; /* Dark gray for subtle text */
+    margin-top: 1rem;
+  }
+  .powered-by-buttondown-dark a {
+    color: #6c757d;
+    text-decoration: underline;
+  }
+
+  /* Responsive styles for smaller screens */
+  @media (max-width: 576px) {
+    .newsletter-form-container-dark {
+      flex-direction: column;
+    }
+    .newsletter-form-container-dark input[type="email"] {
+      max-width: 100%;
+    }
+  }
+</style>
+
+<div class="newsletter-wrapper-dark">
+  <h3>Subscribe to My AI Expedition</h3>
+  <p>
+    Go beyond the tutorials. This is the unfiltered, weekly dispatch from my journey as a Senior iOS Engineer evolving into an AI-assisted full-stack developer. Join me to see the process, not just the final product.
+  </p>
+
+  <form
+  action="https://buttondown.com/api/emails/embed-subscribe/shibiliareekara"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/shibiliareekara', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <!-- <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/shibiliareekara" target="_blank">Powered by Buttondown.</a>
+  </p> -->
+  <div class="newsletter-form-container-dark">
+    <input type="email" name="email" id="bd-email" placeholder="your-email@example.com" required/>
+    <input type="submit" value="Subscribe" />
+  </div>
+  <div class="powered-by-buttondown-dark">
+    <a href="https://buttondown.email/refer/shibiliareekara" target="_blank">Powered by Buttondown</a>
+  </div>
+</form>
+</div>

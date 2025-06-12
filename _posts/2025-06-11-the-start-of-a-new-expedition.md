@@ -39,3 +39,5 @@ I've learned that you can't wait for the right opportunity to come to you; you h
 This is me, building.
 
 Thanks for joining the expedition. Stay tuned.
+
+{% include newsletter_form.html %}

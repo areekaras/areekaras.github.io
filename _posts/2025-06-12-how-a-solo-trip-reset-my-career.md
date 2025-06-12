@@ -33,3 +33,5 @@ I came back a different person. The comfort of my job now felt like a cage. The 
 Fueled by the confidence from that trip, I made a decision that sounded crazy to everyone. I resigned. My manager, trying to be helpful, asked if it was about money. I couldn't explain it because I didn't have a grand plan. I just knew I had to take a break to learn. My strategy was simply: **"Quit first, then sort it out."**
 
 That solo trip proved I could navigate the unknown. It gave me the courage to take a career break with no reference points and no safety net, a decision that became the first real step on this much longer expedition.
+
+{% include newsletter_form.html %}
