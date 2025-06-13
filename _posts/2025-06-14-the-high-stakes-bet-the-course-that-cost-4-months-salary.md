@@ -1,6 +1,6 @@
 ---
 title: "The High-Stakes Bet: The Course That Cost 4 Months' Salary"
-date: 2025-06-14 06:30:00 +0800
+date: 2025-06-14 07:30:00 +0800
 categories: [Career, Growth, Investment, Personal]
 tags: [investment, risk, growth-mindset, ios-development, learning, principles]
 image:
