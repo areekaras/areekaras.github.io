@@ -1,10 +1,10 @@
 ---
 title: "The High-Stakes Bet: The Course That Cost 4 Months' Salary"
-date: 2025-06-13 11:18:16 +0800
-categories: [Career, Growth, Investment]
+date: 2025-06-14 06:30:00 +0800
+categories: [Career, Growth, Investment, Personal]
 tags: [investment, risk, growth-mindset, ios-development, learning, principles]
-# image:
-#   path: /assets/img/posts/your-high-stakes-image.jpg # <-- ADD YOUR IMAGE PATH HERE
+image:
+  path: /assets/img/posts/your-high-stakes-image.jpg # <-- ADD YOUR IMAGE PATH HERE
 #   alt: An abstract image of a single glowing line breaking away from a tangled mess and charting a clear upward path.
 ---
 
@@ -38,6 +38,6 @@ Just three months after starting the program, I began interviewing again. This t
 
 Sometimes, the most logical career move is the one that appears most illogical on paper. It's a lesson in valuing deep, foundational knowledge over fleeting skills—an investment that continues to compound.
 
-*(As a note of gratitude, you can find the program that changed my trajectory at [Essential Developer](https://www.essentialdeveloper.com/) and see a video testimonial I gave for them [here on YouTube](https://www.youtube.com/watch?v=your-testimonial-video-id).)*
+*(As a note of gratitude, you can find the program that changed my trajectory at [Essential Developer](https://www.essentialdeveloper.com/) and see a video testimonial I gave for them [here on their site](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/testimonials/shibili-areekara/).)*
 
 {% include newsletter_form.html %}
