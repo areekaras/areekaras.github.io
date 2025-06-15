@@ -12,6 +12,8 @@ image:
 
 It's the most common and legitimate reason we don't pursue our biggest goals. For a long time, it was my reality. My current work, while managed by the best boss I've ever had, operates in a culture of high demand. Late hours and weekend work are common, leaving me with little energy at the end of the day for deep, focused work.
 
+In the previous chapter, I wrote about how [a 9-day solo trip gave me the courage to resign from my job](https://shibiliareekara.com/posts/how-a-solo-trip-reset-my-career/). The career break that followed demanded a new level of personal discipline.
+
 My personal life felt the impact. Football, a passion I'd recently restarted after a long injury break, fell to the wayside. I became a ghost to my friends, too drained to connect. The person I wanted to be—engaged, active, and present—was being consumed by the demands of the day.
 
 So, I stopped looking for time at the end of my day. I started forging it for myself at the beginning.
@@ -33,5 +35,8 @@ This routine isn't about hustle culture or burnout. It's about a simple, powerfu
 I truly believe that massive, life-changing results don't come from one heroic, 18-hour coding session. They come from laying one brick perfectly, every single day. The 4:30 AM start is my way of making sure I always have the time and energy to lay that one brick for myself.
 
 Waking up before the sun isn't a sacrifice; it's an investment in the person I want to become.
+
+---
+This daily investment in time and discipline set the stage for the single biggest financial investment of my life. I cover that in the next chapter: [The High-Stakes Bet: The Course That Cost 4 Months' Salary](https://shibiliareekara.com/posts/the-high-stakes-bet-the-course-that-cost-4-months-salary/).
 
 {% include newsletter_form.html %}

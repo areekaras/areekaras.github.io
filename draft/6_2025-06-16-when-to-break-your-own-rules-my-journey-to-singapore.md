@@ -12,6 +12,8 @@ I've always operated with a core philosophy: I choose my job; the employer doesn
 
 This philosophy was governed by a set of personal rules. One of the firmest was this: Travel the world, but your home base is India. I resisted all suggestions to become an expat. I was a traveler, not an emigrant.
 
+This final chapter of my prologue series is about adaptation. It follows the story of developing the internal mindset needed for success, which I detailed in the previous post about [the power of proving myself right and working in silence](https://shibiliareekara.com/posts/i-proved-them-wrong-then-said-nothing-at-all/).
+
 These principles gave me confidence and direction. Until a sudden market shift put them to the ultimate test.
 
 ## When the Plan Evaporates
@@ -37,5 +39,8 @@ But another, wiser part knew the truth. The long, difficult path I had taken was
 As the book "Who Moved My Cheese?" illustrates, I've always identified with the mice who are constantly seeking new sources of nourishment. When the world changes—through recessions, layoffs, or the rise of AI—the only strategy is to adapt and move with the tide. That’s why my answer to "Where do you work?" is always, "Right *now*, I'm in Singapore."
 
 My prologue ends here, but my journey of adaptation is just beginning.
+
+---
+This concludes my six-part prologue. Thank you for following my journey from a career break to a new life in Singapore. The story continues with my ongoing explorations into AI and full-stack development, which you can follow on my [main blog page](https://shibiliareekara.com/).
 
 {% include newsletter_form.html %}

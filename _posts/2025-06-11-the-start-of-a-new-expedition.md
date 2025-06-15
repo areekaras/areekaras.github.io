@@ -40,4 +40,7 @@ This is me, building.
 
 Thanks for joining the expedition. Stay tuned.
 
+---
+This expedition has its roots in a specific, life-altering experience that acted as a powerful catalyst. In the next chapter, I share the story of [how a 9-day solo trip reset my entire career path](https://shibiliareekara.com/posts/how-a-solo-trip-reset-my-career/).
+
 {% include newsletter_form.html %}

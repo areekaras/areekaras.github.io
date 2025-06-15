@@ -10,6 +10,8 @@ image:
 
 A few years ago, I was at a crossroads I didn't fully recognize. On the surface, things were fine. I had a good job as an iOS developer in Bangalore and a clear career path. But internally, there was a persistent whisper that asked, "Is this it?" I felt underpaid, but I knew the real issue was a mismatch between my potential and my current reality. An inner voice kept saying, *You can do more. Push your limits.*
 
+This post is the second chapter in my prologue series. If you missed the first, you can read about [the start of this new expedition and the 'why' behind it here](https://shibiliareekara.com/posts/the-start-of-a-new-expedition/).
+
 Around the same time, a project at work required me to learn ReactJS. I dove in and was surprised by the electric feeling of wrapping my head around a new technology. I realized then that learning new things isn't just a skill for me—it's one of the most enjoyable things in my life. The feeling of novelty and challenge was something I was deeply missing.
 
 I knew I needed a catalyst—a circuit breaker to shake things up. So I booked a bus ticket.
@@ -33,5 +35,8 @@ I came back a different person. The comfort of my job now felt like a cage. The 
 Fueled by the confidence from that trip, I made a decision that sounded crazy to everyone. I resigned. My manager, trying to be helpful, asked if it was about money. I couldn't explain it because I didn't have a grand plan. I just knew I had to take a break to learn. My strategy was simply: **"Quit first, then sort it out."**
 
 That solo trip proved I could navigate the unknown. It gave me the courage to take a career break with no reference points and no safety net, a decision that became the first real step on this much longer expedition.
+
+---
+That solo trip gave me the courage to take a leap, but courage requires a system to be effective. In the next post, I explain the personal discipline I forged to make progress, and [why I wake up at 4:30 AM](https://shibiliareekara.com/posts/why-i-wake-up-at-430am/).
 
 {% include newsletter_form.html %}

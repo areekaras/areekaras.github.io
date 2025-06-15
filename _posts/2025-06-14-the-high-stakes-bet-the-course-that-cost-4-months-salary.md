@@ -12,6 +12,8 @@ One year and four months into my self-funded learning break, my finances were st
 
 My background was unconventional. I hadn't grown up around engineers, and I stumbled into the career path through persistence rather than privilege. The companies I'd worked for valued functional solutions over architectural purity. My approach was effective but reactive; I would solve problems by observing existing patterns and applying my logic. The solutions worked, but I knew they weren't built on a foundation of universally accepted, world-class principles. I wanted to build top-quality software, but I didn't have a map or a mentor. I didn't know how to start.
 
+This story builds upon the system of discipline I forged for myself, which I detailed in the previous chapter about [why I wake up at 4:30 AM to create time for my goals](https://shibiliareekara.com/posts/why-i-wake-up-at-430am/).
+
 ## The Search for a System
 
 The core problem wasn't a lack of skill, but a lack of a fundamental *system*. I could solve any given problem, but I couldn't articulate the *'why'* behind my architectural decisions with the precision demanded in top-tier roles. This gap was the primary obstacle between my current reality and my ambitions.
@@ -39,5 +41,8 @@ Just three months after starting the program, I began interviewing again. This t
 Sometimes, the most logical career move is the one that appears most illogical on paper. It's a lesson in valuing deep, foundational knowledge over fleeting skills—an investment that continues to compound.
 
 *(As a note of gratitude, you can find the program that changed my trajectory at [Essential Developer](https://www.essentialdeveloper.com/) and see a video testimonial I gave for them [here on their site](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/testimonials/shibili-areekara/).)*
+
+---
+The financial return on investment was immediate, but the internal challenge was just as significant. In the next chapter, I discuss the mindset required to see this through: [I Proved Them Wrong, Then Said Nothing at All](https://shibiliareekara.com/posts/i-proved-them-wrong-then-said-nothing-at-all/).
 
 {% include newsletter_form.html %}

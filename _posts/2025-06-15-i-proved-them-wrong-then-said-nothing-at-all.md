@@ -10,6 +10,8 @@ image:
 
 For one year and four months, I lived in a state of extreme pressure. The career break had transitioned me from a comfortable life with a steady income to a zero-income period funded by savings and debt. It was the hardest period of my life. The simple freedom of living on my own terms was gone, replaced by the humbling act of asking for help—something I'd always resisted.
 
+In my previous post, I wrote about [the high-stakes financial bet I took on a course that transformed my career](https://shibiliareekara.com/posts/the-high-stakes-bet-the-course-that-cost-4-months-salary/). This chapter is about the intense psychological pressure that came with that decision.
+
 This financial strain was compounded by the weight of perception.
 
 ## The Two-Front Battle
@@ -41,5 +43,8 @@ In that quiet moment, I understood.
 > The goal was never to prove *them* wrong. The goal was to prove *myself* right. The moment you need an audience for your victory, you surrender a part of it.
 
 True confidence isn't loud. It's the calm assurance that comes from enduring the process when no one is watching. My journey wasn't over; a new chapter was just beginning. Celebrating this milestone felt like building a ceiling, and I was determined to keep climbing.
+
+---
+This internal mindset provided the foundation for a new life, but reality always has other plans. In the final chapter of this prologue, I explore what happened next: [When a Rule Becomes a Cage: My Journey to Singapore](https://shibiliareekara.com/posts/when-to-break-your-own-rules-my-journey-to-singapore/).
 
 {% include newsletter_form.html %}
