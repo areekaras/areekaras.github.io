@@ -1,7 +1,7 @@
 ---
 title: "When a Rule Becomes a Cage: My Journey to Singapore"
-date: 2025-06-16 07:00:00 +0800
-categories: [Career, Growth, Philosophy]
+date: 2025-06-16 05:30:00 +0800
+categories: [Personal, Career, Growth, Philosophy]
 tags: [adaptability, decision-making, opportunity, risk, career-growth]
 image:
   path: /assets/img/posts/your-singapore-journey-image.jpg # <-- ADD YOUR IMAGE PATH HERE
