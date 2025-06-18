@@ -71,6 +71,6 @@ These were all things I had only heard about. Now, they are tools in my toolkit.
 Now, the real work of building the house—and the real painting—can begin.
 
 ---
-This reflection is the launchpad. In my next post, I'll share the exact plan and value I intend to provide, and explain [why I'm still digging and what's next](https://shibiliareekara.com/posts/after-the-failure-heres-why-im-still-digging-and-whats-next/).
+This reflection is the launchpad. In my next post, I'll share the exact plan and value I intend to provide, and explain [why I'm still digging and what's next](/posts/the-real-reason-im-building-in-public-a-personal-manifesto/).
 
 {% include newsletter_form.html %}
