@@ -5,7 +5,7 @@ categories: [Philosophy, Strategy, Personal]
 tags: [buildinpublic, manifesto, mindset, career, growth]
 image:
   path: /assets/img/posts/your-manifesto-image.jpg
-  alt: A person's hands writing personal principles and plans in a journal, illuminated by a warm light.
+  #alt: A person's hands writing personal principles and plans in a journal, illuminated by a warm light.
 ---
 
 In my last post, I shared the [“miserable” results of my first week of building in public](/posts/my-first-week-of-building-in-public-a-miserable-failure-and-why-im-thrilled/). A fair question arises: Why bother? Why would someone come out of nowhere and publicly document a journey, especially when the initial results are so humbling?
@@ -14,7 +14,7 @@ The answer is simple: I am doing this for myself. The blog, the posts, the code�
 
 For years, I have held a core philosophy: in a world of constant change, the only winning strategy is to "go with the tide." This means you don't need a fixed, ten-year goal. You just need to keep learning, keep digging, and keep moving. Consistency is the goal. One brick at a time.
 
-This project, this "AI Expedition," is the embodiment of that philosophy. It's not about building one specific product. It's about building a better version of myself. Here are the real reasons why.
+This project, this "My AI Expeditions," is the embodiment of that philosophy. It's not about building one specific product. It's about building a better version of myself. Here are the real reasons why.
 
 ### 1. To Engineer My Own "First Year"
 At every company I've joined, the first year is the hardest. It's a period of intense learning where I have to rapidly close my knowledge gaps. I've always found that while this period is frustrating, it's also when I feel most alive. This project is my way of creating that "first year" challenge for myself, permanently. It's a structured way to address my gaps in core concepts like DSA and System Design on my own terms.
