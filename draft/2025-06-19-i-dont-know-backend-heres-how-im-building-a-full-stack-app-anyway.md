@@ -36,6 +36,7 @@ That was the promise. So I started. I began working on the PMS app with Supabase
 This is the true start of the technical journey.
 
 ---
-This concludes the origin story of the PMS app. Now that the 'why' is established, the next posts will dive into the 'how.' We'll begin with the first technical milestone: [Milestone 1: Laying the Foundation & The Supabase Schema](/posts/pms-milestone-1-supabase-setup/).
+This concludes the origin story of the PMS app. Now that the 'why' is established, the next posts will dive into the 'how.' We'll begin with the first technical milestone: [Milestone 1: Laying the Foundation & The Supabase Schema](https://shibiliareekara.com/)
+  <!-- /posts/pms-milestone-1-supabase-setup/). -->
 
 {% include newsletter_form.html %}
