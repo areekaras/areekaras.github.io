@@ -9,7 +9,9 @@ image:
 #   alt: A developer having a breakthrough moment, realizing AI can help them solve a complex backend problem.
 ---
 
-In my last post, I laid out the [disconnected, messy systems I was using to manage my life](/posts/my-life-was-a-mess-of-spreadsheets-and-checklists/). I had a financial problem, a productivity problem, and an idea-capture problem.
+In my last post, I laid out the [disconnected, messy systems I was using to manage my life](https://shibiliareekara.com/)
+  <!-- /posts/my-life-was-a-mess-of-spreadsheets-and-checklists/) -->
+  . I had a financial problem, a productivity problem, and an idea-capture problem.
 
 Then came the "aha!" moment: What if I could build a single app to solve all three? A Personal Management System (PMS) that could track my expenses, automate my to-do lists, and serve as a home for my thoughts and ideas.
 
