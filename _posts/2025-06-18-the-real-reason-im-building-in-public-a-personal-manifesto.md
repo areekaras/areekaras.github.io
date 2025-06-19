@@ -39,4 +39,9 @@ Years ago, I wrote in a diary that I wanted to "retire" from company work by 35.
 
 This is why I'm here. This is why I'm digging. It's a journey to build a better engineer, a better communicator, and a more capable person. I invite you to follow along.
 
+---
+This manifesto covers the 'why' behind my expedition. The story of *how* this project started, with a simple phrase written on a whiteboard, is the first chapter of my new "PMS: The Origin" series.
+
+**Read Part 1:** ["Find Your Niche": How Job Insecurity and AI Pushed Me to Start Building](/posts/find-your-niche-how-job-insecurity-and-ai-pushed-me-to-start-building/)
+
 {% include newsletter_form.html %}
