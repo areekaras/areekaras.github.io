@@ -21,7 +21,6 @@ It was a command to myself. I needed to find a project—a focus area—that wou
 I spent days thinking about what that niche could be. The answer, it turned out, wasn't in some new, abstract technology. It was hidden in the messy details of my own life.
 
 ---
-The search for a niche began with identifying a problem worth solving. In the next post, I'll share the real-life, disorganized mess that became the perfect inspiration: [my life in spreadsheets and checklists](https://shibiliareekara.com/).
-<!-- [my life in spreadsheets and checklists](/posts/my-life-was-a-mess-of-spreadsheets-and-checklists/). -->
+The search for a niche began with identifying a problem worth solving. In the next post, I'll share the real-life, disorganized mess that became the perfect inspiration: [my life in spreadsheets and checklists](/posts/my-life-was-a-mess-of-spreadsheets-and-checklists/).
 
 {% include newsletter_form.html %}
