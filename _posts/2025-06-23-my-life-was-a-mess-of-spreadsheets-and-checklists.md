@@ -30,7 +30,8 @@ Like many people, I have a constant stream of thoughts and ideas. Philosophical 
 I was living in a disconnected world of spreadsheets, notes, and forgotten ideas. I realized my niche wasn't "out there." It was right here. The problem worth solving was my own life.
 
 ---
-Identifying the problems was the first step. The next was realizing that a single, unified solution was possible—if I could overcome my biggest technical limitation. That's the story for the next post: [I Don't Know Backend. Here's How I'm Building a Full-Stack App Anyway](/posts/i-dont-know-backend-heres-how-im-building-a-full-stack-app-anyway/).
+Identifying the problems was the first step. The next was realizing that a single, unified solution was possible—if I could overcome my biggest technical limitation. That's the story for the next post: [I Don't Know Backend. Here's How I'm Building a Full-Stack App Anyway](https://shibiliareekara.com/).
+<!-- [I Don't Know Backend. Here's How I'm Building a Full-Stack App Anyway](/posts/i-dont-know-backend-heres-how-im-building-a-full-stack-app-anyway/). -->
 
 ---
 
