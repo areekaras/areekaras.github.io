@@ -1,6 +1,6 @@
 ---
 title: "Day 2 of the 7-Day Challenge: Full Throttle—From Skeleton to Live Data"
-date: 2025-06-29 08:00:00 +0800
+date: 2025-06-29 07:00:00 +0800
 categories: [Build in Public, 7 day React Native Challenge]
 tags: [buildinpublic, reactnative, challenge, debugging, productivity, flow-state]
 image:
@@ -8,11 +8,11 @@ image:
 #   alt: A developer in a flow state, with code streaming from their fingertips onto a screen.
 ---
 
-[Day 1 was a battle](/posts/day-1-of-7-day-challenge-when-a-blank-slate-becomes-the-first-boss-battle/)—a 2.5-hour grind against a stubborn npm error just to get a blank screen. Today was the reward for that persistence.
+[Day 1 was a battle](/posts/day-1-of-7-day-challenge-when-a-blank-slate-becomes-the-first-boss-battle/)—a 2.5-hour grind against a stubborn setup error. Today was the reward. The resolution of that initial struggle unlocked a state of pure, productive flow.
 
-I was mentally prepared for another slow day, but with the development environment finally stable, the momentum shifted completely. In what felt like a single, hyper-focused session, I was able to fly through the rest of my Day 1 tasks and complete the entire plan for Day 2.
+This post covers the work I had *planned* for Day 2 of my 7-day challenge. The truth is, I accomplished all of this in a hyper-focused 2-hour session yesterday, right after solving the Day 1 issues. This is the part of software development I love: when the foundation is solid and you can just *build*.
 
-This is the part of software development I love: when the setup is done and you can just *build*. Today, we went from an empty screen to a functional, data-driven crypto market list.
+Let's break down how we went from an empty screen to a functional, data-driven app.
 
 ## Part 1: Building the Skeleton & The Final Hurdles
 
@@ -55,18 +55,18 @@ This is where everything came together. I updated the `MarketsScreen.tsx` file t
 
 In what felt like a blink of an eye compared to yesterday, I went from a blank screen to this:
 
-<!-- ![Final app screenshot showing a list of cryptocurrencies with live prices and charts](/assets/img/posts/7Day-RN-Challenge/2025-06-29-Day2/rn-day2-final-app.mp4) -->
-
 <video width="40%" autoplay loop muted playsinline>
   <source src="/assets/img/posts/7Day-RN-Challenge/2025-06-29-Day2/rn-day2-final-app.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-The speed and progress today were exhilarating. It's a testament to the power of a stable development environment. The hours of struggle on Day 1 paid off by unlocking a morning of pure, productive flow. In fact, I was so energized I immediately started on the work planned for Day 3 in a second session.
+...
+
+The speed and progress were exhilarating. It's a testament to the power of a stable environment and the force-multiplying effect of modern tools. In fact, I was so in the zone that after finishing this work, I immediately started on the tasks planned for Day 3 in the same evening session.
 
 ---
-The app is functional, but it's not *live*. In the next post—covering the second half of my hyper-productive Day 2—I'll tackle the challenge of [replacing the one-time data fetch with a real-time WebSocket connection](/).
-<!-- [replacing the one-time data fetch with a real-time WebSocket connection](/posts/rn-challenge-day2-part2-websockets-and-charts/). -->
+This post covers the first half of my hyper-productive Saturday. In the next post, I'll share the results of that second session, where I tackled [real-time data with WebSockets, charting, and the perils of `--force`](/). 
+<!-- [real-time data with WebSockets, charting, and the perils of `--force`](/posts/day-3-of-7-day-challenge-real-time-data-charting-and-the-perils-of-force/). -->
 
 ---
 
