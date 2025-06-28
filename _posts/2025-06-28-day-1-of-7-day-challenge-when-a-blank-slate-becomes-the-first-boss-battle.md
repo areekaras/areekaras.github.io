@@ -27,7 +27,7 @@ After methodically setting up my tools, I reached the final step: creating the p
 
 And hit a wall. Hard.
 
-![Initial npm error message showing non-zero exit code](/assets/img/posts/7Day-RN-Challenge/2025-06-28-Day1/rn-challenge-day1-error1.png/){: width="800" }
+![Initial npm error message showing non-zero exit code](/assets/img/posts/7Day-RN-Challenge/2025-06-28-Day1/rn-challenge-day1-npm-pack-error.png){: width="800" }
 
 This error, `npm pack blank-ts@latest --dry-run --json exited with non-zero code: 1`, became the villain of my day. It's a cryptic message that essentially meant my computer was failing to download the "blank-ts" starter template from the internet via npm.
 
