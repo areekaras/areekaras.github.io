@@ -34,6 +34,12 @@ The sprint starts now. Let's see what's possible in one week of focused effort.
 
 ---
 
+The sprint has begun. Follow along with the first entry, where the 'simple' task of setting up the project turned into an unexpected challenge.
+
+**Read Day 1:** [Day 1 of the 7-Day Challenge: When a "Blank Slate" Becomes the First Boss Battle](/posts/day-1-of-7-day-challenge-when-a-blank-slate-becomes-the-first-boss-battle/)
+
+---
+
 ### Join the Discussion
 
 I'm documenting this sprint to learn in public. Your feedback is a crucial part of that process.
