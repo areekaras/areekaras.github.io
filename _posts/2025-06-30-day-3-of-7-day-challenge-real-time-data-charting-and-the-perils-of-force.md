@@ -1,6 +1,6 @@
 ---
 title: "Day 3 of the 7-Day Challenge: Real-Time Data, Charting, and the Perils of --force"
-date: 2025-06-30 07:00:00 +0800
+date: 2025-06-30 05:30:00 +0800
 categories: [Build in Public, 7 day React Native Challenge]
 tags: [buildinpublic, reactnative, websockets, debugging, architecture]
 image:
