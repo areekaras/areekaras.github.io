@@ -69,8 +69,7 @@ In what felt like a blink of an eye compared to yesterday, I went from a blank s
 The speed and progress were exhilarating. It's a testament to the power of a stable environment and the force-multiplying effect of modern tools. In fact, I was so in the zone that after finishing this work, I immediately started on the tasks planned for Day 3 in the same evening session.
 
 ---
-This post covers the first half of my hyper-productive Saturday. In the next post, I'll share the results of that second session, where I tackled [real-time data with WebSockets, charting, and the perils of `--force`](/). 
-<!-- [real-time data with WebSockets, charting, and the perils of `--force`](/posts/day-3-of-7-day-challenge-real-time-data-charting-and-the-perils-of-force/). -->
+This post covers the first half of my hyper-productive Saturday. In the next post, I'll share the results of that second session, where I tackled [real-time data with WebSockets, charting, and the perils of `--force`](/posts/day-3-of-7-day-challenge-real-time-data-charting-and-the-perils-of-force/).
 
 ---
 
