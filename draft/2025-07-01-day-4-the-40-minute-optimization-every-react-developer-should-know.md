@@ -58,11 +58,6 @@ export default MemoizedPriceTicker;
 
 With the `console.log` still in place, I re-ran the app. The difference was night and day. The terminal was now quiet, only printing logs for the specific coins whose prices were actively being updated.
 
-<!-- <p align="center">
-  <strong>After Optimization:</strong> The terminal is now calm. Render logs only appear for the specific coins receiving real-time price updates.
-  <br><br>
-  <em>[Video showing the app screen next to the terminal, which now shows only a few, sporadic console logs.]</em>
-</p> -->
 <video width="800" autoplay loop muted playsinline>
   <source src="/assets/img/posts/7Day-RN-Challenge/2025-07-01-Day4/rn-day4-after-memoization.mp4" type="video/mp4">
   After Optimization: The terminal is now calm. Render logs only appear for the specific coins receiving real-time price updates.
