@@ -28,6 +28,10 @@ This `ERESOLVE` error is npm's way of saying that different packages in the proj
 
 The fix was to manually edit my `package.json` to use the exact versions compatible with my Expo SDK, and then run the installation with a special flag: `npm install --legacy-peer-deps`. This tells npm to be more lenient and resolve the minor conflicts.
 
+Here is the corrected `package.json` file with the aligned versions:
+
+![The updated package.json file with corrected, compatible dependency versions](/assets/img/posts/7Day-RN-Challenge/2025-06-29-Day2/rn-day2-updated-package-json.png){: width="800" }
+
 With that solved, I created the theme file and the bottom tab navigator. But when I ran the app, I was met with one final, unexpected error.
 
 ![ExpoFontLoader error in the simulator red screen](/assets/img/posts/7Day-RN-Challenge/2025-06-29-Day2/rn-day2-expofontloader-error.png){: width="800" }
