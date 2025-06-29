@@ -78,8 +78,9 @@ This intense setup session gave me a few key insights I wasn't expecting:
 Day 1 wasn't about writing features; it was about persistence. Now that the foundation is truly set, I'm excited to finally start building.
 
 ---
-Now that the environment is stable, Day 2 will be about giving the app its identity. Next up: [Building the UI Skeleton with Theming and Navigation](/)
-<!-- [Building the UI Skeleton with Theming and Navigation](/posts/rn-challenge-day2-theming-and-navigation/). -->
+The battle of Day 1 was the price of admission for the progress on Day 2. Now that the environment is truly stable, the real building begins.
+
+**Next up:** [Day 2 of the 7-Day Challenge: Full Throttle—From Skeleton to Live Data](/posts/day-2-of-7-day-challenge-full-throttle-from-skeleton-to-live-data/)
 
 ---
 
