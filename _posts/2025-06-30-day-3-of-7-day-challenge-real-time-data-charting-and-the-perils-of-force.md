@@ -54,8 +54,9 @@ Today was incredibly productive. We now have an app with live price updates, a c
 We are significantly ahead of schedule. The initial struggles have been replaced by rapid progress. Tomorrow, the plan is to tackle Day 4: refactoring, optimization, and adding the "Watchlist" feature.
 
 ---
-The app is now live and interactive. Tomorrow, the plan is to tackle the work originally scheduled for Day 4: [Refactoring, Optimization, and Building the Watchlist Feature](/).
-<!-- [Refactoring, Optimization, and Building the Watchlist Feature](/posts/rn-challenge-day4-refactoring-and-watchlist/). -->
+The app is now live and interactive, but looking "fast" isn't enough. It needs to be truly *performant*. The next session was a deep dive into the kind of "under-the-hood" work that separates a good app from a great one.
+
+**Next up on Day 4:** [The 40-Minute Optimization Every React Developer Should Know](/posts/day-4-the-40-minute-optimization-every-react-developer-should-know/)
 
 ---
 
