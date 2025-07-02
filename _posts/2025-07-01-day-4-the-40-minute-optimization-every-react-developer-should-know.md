@@ -73,7 +73,7 @@ This is the kind of proactive, "under-the-hood" work that defines senior-level e
 
 With the app now optimized, I could confidently build the next core feature: the Watchlist. However, adding new code to a stable system is the ultimate test of its architecture, and the session quickly turned into a deep dive into the messy reality of feature development.
 
-**Next up on Day 5:** [One Feature, Three Bugs, and the Reality of Senior Engineering](/posts/day-5-one-feature-three-bugs-and-the-reality-of-a-senior-engineers-day/)
+**Next up on Day 5:** [One Feature, Three Bugs, and the Reality of Senior Engineering](/posts/day-5-one-feature-three-bugs-and-the-reality-of-senior-engineering/)
 
 ---
 
