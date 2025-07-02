@@ -70,8 +70,10 @@ This entire cycle—identifying a potential issue, proving it with data, impleme
 This is the kind of proactive, "under-the-hood" work that defines senior-level engineering. It's about anticipating problems and building a foundation that is not just functional, but truly performant.
 
 ---
-With the app now optimized, I can confidently build the next core feature. Next up on Day 5: [Designing and Implementing the Watchlist](/)
-<!-- [Designing and Implementing the Watchlist](/posts/rn-challenge-day5-designing-and-implementing-the-watchlist/). -->
+
+With the app now optimized, I could confidently build the next core feature: the Watchlist. However, adding new code to a stable system is the ultimate test of its architecture, and the session quickly turned into a deep dive into the messy reality of feature development.
+
+**Next up on Day 5:** [One Feature, Three Bugs, and the Reality of Senior Engineering](/posts/day-5-one-feature-three-bugs-and-the-reality-of-a-senior-engineers-day/)
 
 ---
 
