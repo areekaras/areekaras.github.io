@@ -12,11 +12,12 @@ After the major performance optimization on [Day 4](/posts/day-4-the-40-minute-o
 
 In reality, the session clocked in at **2 hours and 55 minutes.**
 
-The good news is that I successfully built the entire feature. The real story, however, is that making a new feature *work* is only half the battle. Making it work *correctly* and *robustly* is where the real engineering begins. This is the unfiltered reality of senior-level development: a simple feature can uncover a web of complex challenges that must be solved.
+The good news is that I successfully built the entire feature. The real story, however, is that making a new feature _work_ is only half the battle. Making it work _correctly_ and _robustly_ is where the real engineering begins. This is the unfiltered reality of senior-level development: a simple feature can uncover a web of complex challenges that must be solved.
 
 ### Step 1: Building the Initial Watchlist Feature
 
 The goal was to allow users to save their favorite coins for easy tracking. The initial implementation plan was straightforward:
+
 1.  Use `@react-native-async-storage/async-storage` for local persistence.
 2.  Create a custom `useWatchlist` hook to encapsulate the logic for adding, removing, and loading favorited coins.
 3.  Add a "star" icon to the `DetailsScreen` header to toggle a coin's status.
@@ -77,9 +78,11 @@ After fixing all the crashes, one warning remained: the `VirtualizedList: You ha
 Today, we didn't just build the Watchlist feature; we hardened the entire application. We took a simple feature, found its flaws, and re-architected it to be robust, performant, and crash-free. These are the challenges that truly level up your skills.
 
 ---
+
 You can view the final state of the code for this feature in [this commit on GitHub](https://github.com/areekaras/signal-crypto-dashboard/compare/f276159...27366b9).
 
 Next up on Day 6, we'll build on this stable foundation to [implement a personalized, reorderable Watchlist](/)
+
 <!-- [implement a personalized, reorderable Watchlist](/posts/rn-challenge-day6-reorderable-list/). -->
 
 ---
@@ -87,9 +90,10 @@ Next up on Day 6, we'll build on this stable foundation to [implement a personal
 ### Join the Discussion
 
 **1. What part of this post was most valuable to you?**
-* (A) The state management (Zustand) solution.
-* (B) The breakdown of the infinite render loop bug.
-* (C) The pragmatic decision not to fix the final warning.
+
+- (A) The state management (Zustand) solution.
+- (B) The breakdown of the infinite render loop bug.
+- (C) The pragmatic decision not to fix the final warning.
 
 Let me know your answer (A, B, or C) in the comments below!
 
@@ -97,6 +101,7 @@ Let me know your answer (A, B, or C) in the comments below!
 What's the most complex bug you've ever had to hunt down? What was the "aha!" moment that finally led to the solution?
 
 ---
-*The best way to follow this 7-day sprint is by joining my newsletter for daily updates directly in your inbox.*
+
+_The best way to follow this 7-day sprint is by joining my newsletter for daily updates directly in your inbox._
 
 {% include newsletter_form.html %}
