@@ -1,7 +1,7 @@
 ---
 title: "Day 5: One Feature, Three Bugs, and the Reality of Senior Engineering"
 date: 2025-07-02 07:00:00 +0800
-categories: [React Native Challenge, Development]
+categories: [Build in Public, 7 day React Native Challenge]
 tags: [buildinpublic, reactnative, debugging, architecture, engineering]
 image:
   path: /assets/img/posts/7Day-RN-Challenge/2025-07-02-Day5/rn-challenge-day-5.jpg
