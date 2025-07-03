@@ -78,12 +78,9 @@ After fixing all the crashes, one warning remained: the `VirtualizedList: You ha
 Today, we didn't just build the Watchlist feature; we hardened the entire application. We took a simple feature, found its flaws, and re-architected it to be robust, performant, and crash-free. These are the challenges that truly level up your skills.
 
 ---
+With the app now robust and crash-free, the focus for the next session shifted from pure functionality to form and feel. The next challenge was to take an app that *works* and make it an app that feels *delightful* to use.
 
-You can view the final state of the code for this feature in [this commit on GitHub](https://github.com/areekaras/signal-crypto-dashboard/compare/f276159...27366b9).
-
-Next up on Day 6, we'll build on this stable foundation to [implement a personalized, reorderable Watchlist](/)
-
-<!-- [implement a personalized, reorderable Watchlist](/posts/rn-challenge-day6-reorderable-list/). -->
+**Next up on Day 6:** [The Art of Polish—Refining UI and Bringing it to Life](/posts/day-6-the-art-of-polish-refining-ui-and-bringing-it-to-life/)
 
 ---
 

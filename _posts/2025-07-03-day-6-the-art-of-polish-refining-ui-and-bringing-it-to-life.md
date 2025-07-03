@@ -68,10 +68,10 @@ Now, when the user is on the watchlist and taps the trash can icon, the state up
 Day 6 was about more than just aesthetics. It was about improving my development process and thinking deeply about the user's experience. By adopting feature branches, my work is now more organized and easier to review.
 
 <p align="center">
-  <a href="https://github.com/areekaras/signal-crypto-dashboard/pull/1" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/posts/7Day-RN-Challenge/2025-07-03-Day6/github-pull-request.png" alt="Pull Request for the Day 6 UI Polish feature branch" width="800px">
-  </a>
+  <img src="/assets/img/posts/7Day-RN-Challenge/2025-07-03-Day6/github-pull-request.png" alt="Pull Request for the Day 6 UI Polish feature branch" width="800px">
 </p>
+
+You can review the full **[Pull Request for this feature on GitHub](https://github.com/areekaras/signal-crypto-dashboard/pull/1)** to see all the code changes from today's session.
 
 By debugging the animation timing, I was able to add a new piece of functionality that not only solved the problem but also made the app better to use. We now have a polished, animated, and professionally structured application.
 
