@@ -35,7 +35,7 @@ This project was a marathon sprint, filled with tough challenges and rewarding b
 * **[Day 2: Hitting Hyperspeed](/posts/day-2-of-7-day-challenge-full-throttle-from-skeleton-to-live-data/) (1h 55m):** With the setup stable, progress exploded. I built the app's entire skeleton and displayed a live list of data.
 * **[Day 3: The "Wow" Factor](/posts/day-3-of-7-day-challenge-real-time-data-charting-and-the-perils-of-force/) (1h 25m):** This session added dynamic features like a live WebSocket feed and data visualization with charting.
 * **[Day 4: The 40-Minute Optimization](/posts/day-4-the-40-minute-optimization-every-react-developer-should-know/) (40m):** A short but critical session where I used `React.memo` to fix a major re-rendering issue, showing that performance is a feature.
-* **[Day 5: The Reality of Senior Engineering](/posts/day-5-one-feature-three-bugs-and-the-reality-of-a-senior-engineers-day/) (2h 35m):** Building the "Watchlist" feature uncovered a cascade of bugs, turning the day into a deep dive into debugging and architecture.
+* **[Day 5: The Reality of Senior Engineering](/posts/day-5-one-feature-three-bugs-and-the-reality-of-senior-engineering/) (2h 35m):** Building the "Watchlist" feature uncovered a cascade of bugs, turning the day into a deep dive into debugging and architecture.
 * **[Day 6: The Art of Polish](/posts/day-6-the-art-of-polish-refining-ui-and-bringing-it-to-life/) (45m):** The final coding session was dedicated to user experience, refining the UI and adding subtle animations to make the app feel delightful.
 
 ### My Approach: Experience Amplified by AI
