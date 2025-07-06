@@ -69,6 +69,10 @@ If your team is looking for an engineer who brings not just technical skill, but
 Thank you for following along on this journey.
 
 ---
+**P.S. — The Bonus Round**
+The challenge was complete, but I couldn't resist one final session to add some extra polish and key features. You can read about that bonus round [here](/posts/the-7-day-challenge-bonus-round-3-pro-level-features-in-25-minutes/).
+
+---
 
 ### Join the Discussion
 
