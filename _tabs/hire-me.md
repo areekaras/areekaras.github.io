@@ -24,29 +24,32 @@ Joining a new company is a challenge. My approach is different because I enjoy t
 
 This method has allowed me to integrate smoothly and add value quickly. The greatest appreciation I’ve received is that at every company I've left, my managers have asked me to stay and invited me to come back anytime.
 
-## From Philosophy to Proof: The 7-Day Challenge
+## From Philosophy to Proof: My Public Journey
 
-Talk is cheap. The best way to show my work ethic is to show my work. I recently completed a public challenge to build a full-featured crypto tracking app, "Signal," from scratch using React Native.
+Talk is cheap. The best way to show my work ethic is to show my work.
 
-The entire project—from a broken environment to a polished, documented app with bonus features—was finished in **under 11 hours.**
+My real passion is building robust, testable, and high-quality native iOS applications. I am currently on a public, disciplined mission to master the deepest levels of iOS engineering.
 
-This wasn't just about speed; it was an exercise in putting my entire philosophy into practice: making smart architectural decisions under pressure and solving the real-world bugs that define modern development.
+* My **[EssentialFeed](https://github.com/areekaras/EssentialFeed)** project is my deep dive into Test-Driven Development (TDD) and the clean architectures required to build professional, modular iOS apps.
+* My **[my-learning-journey](https://github.com/areekaras/my-learning-journey)** repository is the daily log of this entire process, where I'm tackling everything from System Design to Data Structures.
 
-You can read the full, day-by-day retrospective [here](/posts/7-day-challenge-complete-a-pro-level-react-native-app-in-under-11-hours/).
+This same mindset is how I approach new technologies. I previously completed a public 7-day challenge to build a full-featured crypto tracking app, "Signal," from scratch in React Native. The entire project was finished in under 11 hours. You can read the full retrospective [here](/posts/7-day-challenge-complete-a-pro-level-react-native-app-in-under-11-hours/).
+
+These projects aren't just for show. They are exercises in putting my entire philosophy into practice.
 
 ## My Promise & My Next Mission
 
-I’m not the kind of developer who aces every whiteboard algorithm on the first try, and I’m actively working on making my technical thoughts more presentable—it’s my next mission to become a great communicator.
+I’m not the kind of developer who aces every whiteboard algorithm on the first try, but I am the one who will be relentlessly working on it, as my learning repo proves.
 
-But here is my promise: You will get a highly self-motivated, adaptable, and quality-obsessed engineer who sees the journey as the reward. You’ll get someone who can pull off anything because my career itself is proof of that.
+My next mission is to become a great communicator. I am actively taking an "Art of Speaking" course and have started a **[YouTube channel](https://www.youtube.com/watch?v=cjfVcvwqr0Q)** to practice sharing my technical journey. It's my first step in learning to teach and lead, not just to code.
 
-The proof is in the posts on this blog. They tell the story of where I came from and where I’m going.
+Here is my promise: You will get a highly self-motivated, adaptable, and quality-obsessed engineer who sees the journey as the reward. You’ll get someone who can pull off anything because my career itself is proof of that.
 
 ### Let's Build Something Great Together
 
-If your team is looking for an engineer with a proven track record of execution and a deep sense of ownership for a **React Native or native iOS role**, I believe we could be a great fit.
+If your team is looking for an engineer with a proven track record of execution and a deep sense of ownership for a **Lead iOS, Senior iOS, or React Native role**, I believe we could be a great fit.
 
-<a href="/assets/docs/ReactNative_Resume_Shibili.pdf" class="btn btn-primary" role="button" target="_blank">View My Resume</a>
+<a href="/assets/docs/iOS_Resume_Shibili.pdf" class="btn btn-primary" role="button" target="_blank">View My Resume</a>
 <a href="https://github.com/areekaras" class="btn btn-primary" role="button" target="_blank">My GitHub Profile</a>
 <a href="https://www.linkedin.com/in/shibiliareekara/" class="btn btn-primary" role="button" target="_blank">My LinkedIn Profile</a>
 
